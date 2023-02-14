@@ -1,0 +1,4 @@
+[submodule "grtzc-aws-lambda-ensure-timezones"]
+	path = grtzc-aws-lambda-ensure-timezones
+	url = git@github.com:Grtzc/grtzc-aws-lambda-ensure-timezones.git
+	branch = master
