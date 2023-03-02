@@ -2,3 +2,7 @@
 	path = grtzc-aws-lambda-ensure-timezones
 	url = git@github.com:Grtzc/grtzc-aws-lambda-ensure-timezones.git
 	branch = master
+[submodule "grtzc-aws-lambda-query-tzs-by-date"]
+	path = grtzc-aws-lambda-query-tzs-by-date
+	url = git@github.com:Grtzc/grtzc-aws-lambda-query-tzs-by-date.git
+	branch = main
